@@ -11,7 +11,7 @@ Pneumonia Detection using machine learning.
 
 ![gif](https://github.com/wilhelmberghammer/pneumonia_detection/blob/main/resources/web.gif?raw=true)
 
-**Result:**
+**Result (Confusion Matrix):**
 
 ![confusion matrix](https://github.com/wilhelmberghammer/pneumonia_detection/blob/main/resources/confusion_matrix.png?raw=true)
 
