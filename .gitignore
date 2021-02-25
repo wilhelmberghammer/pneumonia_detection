@@ -130,3 +130,6 @@ dmypy.json
 
 # model
 /src/sm_91.pt
+
+# DS_Store
+/.DS_Store
