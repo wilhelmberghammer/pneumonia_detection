@@ -115,4 +115,4 @@ Estimated Total Size (MB): 143.24
 
 ---
 ## Visualization using [Streamlit](https://www.streamlit.io/)
-The webapp is not hosted because the model is too large. I'd have to host it on a server. This is just to visualize.
+The webapp is not hosted because the model is too large. This is just to visualize.
