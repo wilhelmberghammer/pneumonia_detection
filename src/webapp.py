@@ -48,7 +48,7 @@ def predict(image, model):
 	st.write('')
 	st.bar_chart(df)
 
-PATH_TO_MODEL = './sm_91.pt'
+PATH_TO_MODEL = 'model.py'
 model = torch.load(PATH_TO_MODEL)
 model.eval()
 
